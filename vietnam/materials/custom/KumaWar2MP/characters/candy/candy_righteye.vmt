@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture" "characters/candy/candy_righteye"
+	"$iris" "characters/candy/candy_pupilr"
+	"$halflambert" 1
+}

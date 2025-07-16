@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Characters/dave_scrjacket/diffusemap_red"
+
+	
+       	 "$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}

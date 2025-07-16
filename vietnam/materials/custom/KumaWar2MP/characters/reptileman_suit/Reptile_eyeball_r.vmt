@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "characters/ReptileMan_Suit/Reptile_eyeball_r"
+	"$iris" "characters/ReptileMan_Suit/reptile_pupil_r"
+	"$halflambert" 1
+}

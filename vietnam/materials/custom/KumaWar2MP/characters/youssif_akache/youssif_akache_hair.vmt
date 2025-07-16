@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/youssif_akache/youssif_akache_hair"
+	"$model" 	1
+	"$nodecal"	1
+	"$nocull"	1
+	"$alphatest"	1
+	//"$halflambert"	1
+
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters/zarqawi/zarqawi_sheet"
+	"$halflambert" 1
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[0.3 0.3 0.3]"
+	"$nodecal" "1"
+}

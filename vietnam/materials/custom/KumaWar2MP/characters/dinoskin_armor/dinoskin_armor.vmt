@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+	"$basetexture" "Characters/dinoskin_armor/dinoskin_armor"
+	//"$bumpmap" "Characters/dinoskin_armor/dinoskin_armor"
+	"$translucent"		1
+	"$model"		1
+	"$nodecal" 		1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"Characters/Candy2/candy_hair"
+	"$model" "1"
+	"$halflambert"	"1"
+
+}

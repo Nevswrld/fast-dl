@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Characters\US\TrouserMedicSnowy"
+	"$model" 1
+	"$nocull" 1
+
+}

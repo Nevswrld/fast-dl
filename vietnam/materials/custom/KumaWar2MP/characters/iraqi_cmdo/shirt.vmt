@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/Iraqi_Cmdo/Shirt"
+	//"$nocull"	1
+	"$model" 	1
+}

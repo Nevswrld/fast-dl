@@ -1,0 +1,33 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/ayesha/ayesha_sheet_02"
+	"$model" "1"
+		
+
+	
+
+	"VertexLitGeneric_DX9"
+	{
+	
+
+	
+
+	"$bumpmap" "characters/ayesha/ayesha_sheet_normal"
+	"$phong" 1
+	"$phongboost" "0.2"
+	"$phongexponent" "10"
+	"$phongtint" "[.85 .85 1]"
+	"$phongfresnelranges" "[.3 .65 30]"
+	"$ambientocclusion" "1"		
+	
+	
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "8"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".8"		
+		
+
+
+	}
+
+}

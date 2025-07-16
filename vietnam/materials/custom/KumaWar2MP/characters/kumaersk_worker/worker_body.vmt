@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters/Kumaersk_Worker/Worker_Body"
+        "$model"	1
+}

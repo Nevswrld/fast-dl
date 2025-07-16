@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/steve/steve_sheet_blue"
+	"$model" "1"
+}

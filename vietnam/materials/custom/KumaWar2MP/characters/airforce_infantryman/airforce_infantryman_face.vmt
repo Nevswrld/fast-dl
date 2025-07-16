@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/airforce_infantryman/airforce_infantryman_face"
+	"$model" 	1
+	"$nodecal"	1
+	"$halflambert"	1
+
+}

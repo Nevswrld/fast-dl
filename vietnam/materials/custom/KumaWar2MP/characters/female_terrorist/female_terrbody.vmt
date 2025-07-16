@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/female_terrorist/female_terrBody"
+	"$model" 	1
+	"$nodecal"	1
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters\hmo_sentinel\hmo_sentinel_mask"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" 1
+}
+
+
+	
+
+

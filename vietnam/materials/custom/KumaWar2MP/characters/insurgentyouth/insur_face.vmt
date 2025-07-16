@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Characters/InsurgentYouth/Insur_face.vtf"
+	
+       	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+//	"$phong" "1"
+//	"$phongexponent" 5 //only used if there is not a exponent texture spaid!
+//	"$phongboost"	"1" //overbrighten factor
+//	"$phongfresnelranges"	"[0.05 0.5 1]"
+}

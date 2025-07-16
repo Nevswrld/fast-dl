@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters/zarqawi/zarqawi_face"
+	"$model" "1"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

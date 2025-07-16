@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Characters\US\Torso2"
+	"$model" 1
+	"$nocull" 1
+}

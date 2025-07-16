@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/somali_pirate/somali_pirate_face"
+	"$model" 	1
+	"$nodecal"	1
+}

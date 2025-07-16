@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Characters/taliban_rpg/taliban_rpg_sheet.vtf"
+	
+
+       	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+}

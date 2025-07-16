@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/pakistan_soldier/pakistan_soldier_face"
+	"$model" 	1
+	"$nodecal"	1
+	//"$halflambert"	1
+
+
+}

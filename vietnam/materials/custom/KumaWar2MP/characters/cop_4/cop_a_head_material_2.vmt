@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters/Cop_4/Cop_A_Head_Material_2.vtf"
+        "$model"	1
+}

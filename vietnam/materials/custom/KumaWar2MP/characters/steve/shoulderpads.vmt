@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/steve/shoulderpads"
+	"$model" 	1
+	"$nodecal"	1
+}

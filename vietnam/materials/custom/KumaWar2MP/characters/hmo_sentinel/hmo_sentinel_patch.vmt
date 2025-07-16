@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+ {
+  "$baseTexture" "characters\hmo_sentinel\hmo_sentinel_patch"
+
+  "Proxies" 
+       { 
+         "AnimatedTexture" 
+         { 
+            "animatedTextureVar" "$basetexture" 
+            "animatedTextureFrameNumVar" "$frame"
+            "animatedTextureFrameRate" "15" 
+         }
+    } 
+ }

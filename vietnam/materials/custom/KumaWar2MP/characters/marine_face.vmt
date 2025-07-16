@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters/Marine_face"
+	"$model"		1
+	"$surfaceprop" "flesh"
+}

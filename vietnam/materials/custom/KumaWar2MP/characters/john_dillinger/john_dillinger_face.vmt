@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/john_dillinger/john_dillinger_face"
+	"$model" 	1
+	"$nodecal"	1
+	"$halflambert"	1
+
+
+}

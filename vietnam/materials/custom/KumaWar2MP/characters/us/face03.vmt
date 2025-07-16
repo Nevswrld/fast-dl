@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Characters\US\Marine_Face03"
+	"$model" 1
+	"$nocull" 1
+}

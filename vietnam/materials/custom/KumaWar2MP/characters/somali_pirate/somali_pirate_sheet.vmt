@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/somali_pirate/somali_pirate_sheet"
+	"$model" 			"1"
+	
+	//this might not look right...if gives problems take it out -jrd
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask"	"characters/somali_pirate/somali_pirate_sheet_normal"
+	"$envmapcontrast"		".8"
+	"$envmapsaturation" 		".75"
+	"$envmaptint" 			"[.65 .65 .65]"	
+
+
+
+}

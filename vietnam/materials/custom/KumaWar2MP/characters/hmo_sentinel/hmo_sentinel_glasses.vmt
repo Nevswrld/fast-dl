@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "characters\hmo_sentinel\hmo_sentinel_glasses"
+	"$halflambert" 1
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$nodecal" "1"
+	"$model" 1
+}
+
+
+	
+
+

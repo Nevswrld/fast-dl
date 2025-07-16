@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "characters/gsg9/gsg9_face_b"
+	"$model" 	1
+	"$nodecal"	1
+	"$halflambert"	1
+
+}
