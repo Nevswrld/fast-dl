@@ -1,0 +1,77 @@
+WeaponData
+{
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"	"Barrett M82A1"
+	"viewmodel"			"models/weapons/v_m82_sniper.mdl"
+	"playermodel"			"models/weapons/w_m82_sniper.mdl"
+	"anim_prefix"			"rifle"
+	"bucket"			"3"
+	"bucket_position"		"8"
+
+	"clip_size"			"5"
+	"primary_ammo"			"12_7x99mm"
+	"secondary_ammo"		"None"
+
+	"default_clip"			"5"
+	"default_clip2"			"-1"
+
+	"weight"				"5"
+	"item_flags"			"37"
+	"damage"			"79"
+
+
+	"BuiltRightHanded"		"1"
+	"AllowFlipping"			"0"
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+
+		"single_shot"			"Weapon_M82.Single"
+		// NPC WEAPON SOUNDS
+		"single_shot_npc"		"Weapon_M82.NPC_Single"
+		"reload_npc"			"Weapon_M82.NPC_Reload"
+	}
+
+	// Weapon Sprite data is loaded by the Client DLL.
+	TextureData
+	{
+		"weapon"
+		{
+				"file"		"sprites/hud/tkp_HUD_Weapons"
+				"x"		"270"
+				"y"		"448"
+				"width"		"243"
+				"height"	"63"
+		}
+		"weapon_s"
+		{	
+				"file"		"sprites/hud/tkp_HUD_Weapons"
+				"x"		"270"
+				"y"		"448"
+				"width"		"243"
+				"height"	"63"
+		}
+		"ammo"
+		{
+				"file"		"sprites/hud/tkp_HUD_Weapons"
+				"x"		"270"
+				"y"		"448"
+				"width"		"243"
+				"height"	"63"
+		}
+		"crosshair"
+		{
+				"font"		"Crosshairs"
+				"character"	"Q"
+		}
+		"autoaim"
+		{
+				"file"		"sprites/crosshairs"
+				"x"			"0"
+				"y"			"48"
+				"width"		"24"
+				"height"	"24"
+		}
+	}
+}

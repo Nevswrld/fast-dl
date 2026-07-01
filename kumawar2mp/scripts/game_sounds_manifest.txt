@@ -1,0 +1,31 @@
+game_sounds_manifest
+{
+//Optimized Scripts with new convention:
+	"precache_file"		"scripts/game_sounds.txt"
+	"precache_file"		"scripts/game_sounds_lobby.txt"
+	"precache_file"		"scripts/game_sounds_ui.txt"
+	"precache_file"		"scripts/game_sounds_player.txt"
+	"precache_file"		"scripts/game_sounds_ambient.txt"
+	"precache_file"		"scripts/game_sounds_physics.txt"
+	"precache_file"		"scripts/game_sounds_world.txt"
+	"precache_file"		"scripts/game_sounds_fx.txt"
+	"precache_file"		"scripts/game_sounds_items.txt"
+	"precache_file"		"scripts/game_sounds_weapons.txt"
+	"precache_file"		"scripts/game_sounds_vehicle.txt"
+	"precache_file"		"scripts/game_sounds_m82.txt"
+
+//map-specific calls
+
+	"precache_file"		"scripts/game_sounds_baghdadSurge.txt"
+	"precache_file"		"scripts/game_sounds_baghdadSurgeSP.txt"
+	"precache_file"		"scripts/game_sounds_embassy.txt"
+	"precache_file"		"scripts/game_sounds_FireMagic.txt"
+	"precache_file"		"scripts/game_sounds_iwo.txt"
+	"precache_file"		"scripts/game_sounds_kandahar.txt"
+	"precache_file"		"scripts/game_sounds_karbalaDay.txt"
+	"precache_file"		"scripts/game_sounds_kumaersk.txt"
+	"precache_file"		"scripts/game_sounds_mp.txt"
+	"precache_file"		"scripts/game_sounds_swat.txt"
+	"precache_file"		"scripts/game_sounds_binLaden.txt"
+
+}

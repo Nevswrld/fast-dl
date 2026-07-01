@@ -1,0 +1,70 @@
+"Weapon_M82.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"0.25"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,105"
+	"rndwave"
+	{
+		"wave"			"weapon/m82/M82.wav"
+	}
+}
+"Weapon_M82.NPC_Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"70,75"
+	"rndwave"
+	{
+		"wave"			"weapon/m82/M82_NPC.wav"
+	}
+}
+"Weapon_M82.Magout"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,101"
+	"wave"			"weapon/m82/M82_Magout.wav"
+}
+"Weapon_M82.Magin"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,101"
+	"wave"			"weapon/m82/M82_Magin.wav"
+}
+"Weapon_M82.Boltback"
+{
+	"channel"		"CHAN_AUTO"
+	"volume"		"0.1"
+	"soundlevel"	"SNDLVL_GUNFIRE"
+	"pitch"			"95,101"
+	"wave"			"weapon/m82/M82_Boltpull.wav"
+}
+"Weapon_M82.Yeet"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.7"
+	"soundlevel"	"SNDLVL_85db"
+	"pitch"			"95,101"
+	"wave"			">ambient/fx/nearmiss/BullerNearMiss2.wav"
+}
+"Weapon_M82.Cat"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.6"
+	"soundlevel"	"SNDLVL_85db"
+	"pitch"			"88,93"
+	"wave"			"weapon/m82/cat_screech.wav"
+}
+"Weapon_M82.NPC_Reload"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1"
+	"soundlevel"	"SNDLVL_85db"
+	"pitch"			"88,93"
+	"wave"			"weapon/barret-rld.wav"
+}
